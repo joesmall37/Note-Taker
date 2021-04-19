@@ -19,6 +19,10 @@
   "homepage": "https://github.com/joesmall37/Note-Taker#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "inquirer": "^8.0.0"
+    "fs": "0.0.1-security",
+    "inquirer": "^8.0.0",
+    "path": "^0.12.7",
+    "router": "^1.3.5",
+    "uuid": "^8.3.2"
   }
 }
